@@ -1,0 +1,2157 @@
+Number of images: 16099
+
+Iteration 0
+BW classifier
+First zone goes from 5,15 to 6,15
+Second zone goes from 7,15 to 8,15
+The value of et is 0.0840389
+The value of alphat is 1.19435
+False positives 896
+False negatives 457
+
+
+Iteration 1
+BWB classifier
+First zone goes from 2,4 to 5,7
+Second zone goes from 2,8 to 5,11
+Third zone goes from 2,12 to 5,15
+The value of et is 0.155597
+The value of alphat is 0.84568
+False positives 654
+False negatives 1321
+
+
+Iteration 2
+BW classifier
+First zone goes from 5,5 to 5,5
+Second zone goes from 6,5 to 6,5
+The value of et is 0.236032
+The value of alphat is 0.587279
+False positives 1257
+False negatives 598
+
+
+Threshold set to -1.45375
+Strong classifier 0
+False positives: 2257
+False negatives: 43
+
+Opened image ./data/images/01.jpg
+Added 904 no-faces
+
+Added 199 no-faces
+
+Added 38 no-faces
+
+Added 3 no-faces
+
+Opened image ./data/images/02.jpg
+Added 1321 no-faces
+
+Added 331 no-faces
+
+Added 57 no-faces
+
+Added 8 no-faces
+
+Opened image ./data/images/04.jpg
+Added 1519 no-faces
+
+Added 378 no-faces
+
+Added 80 no-faces
+
+Added 5 no-faces
+
+Opened image ./data/images/05.jpg
+Added 973 no-faces
+
+Added 190 no-faces
+
+Added 42 no-faces
+
+Added 6 no-faces
+
+Opened image ./data/images/06.jpg
+Added 993 no-faces
+
+Added 285 no-faces
+
+Added 61 no-faces
+
+Added 7 no-faces
+
+Opened image ./data/images/07.jpg
+
+Iteration 0
+BWB classifier
+First zone goes from 5,3 to 5,7
+Second zone goes from 5,8 to 5,12
+Third zone goes from 5,13 to 5,17
+The value of et is 0.124037
+The value of alphat is 0.977372
+False positives 967
+False negatives 1030
+
+
+Iteration 1
+WB classifier
+First zone goes from 1,3 to 1,15
+Second zone goes from 2,3 to 2,15
+The value of et is 0.205356
+The value of alphat is 0.676575
+False positives 1319
+False negatives 1521
+
+
+Iteration 2
+BW classifier
+First zone goes from 5,15 to 5,15
+Second zone goes from 6,15 to 6,15
+The value of et is 0.247529
+The value of alphat is 0.555916
+False positives 2657
+False negatives 862
+
+
+Iteration 3
+BWB classifier
+First zone goes from 5,5 to 5,5
+Second zone goes from 5,6 to 5,6
+Third zone goes from 5,7 to 5,7
+The value of et is 0.267415
+The value of alphat is 0.503889
+False positives 1729
+False negatives 1040
+
+
+Iteration 4
+WB classifier
+First zone goes from 10,2 to 13,17
+Second zone goes from 14,2 to 17,17
+The value of et is 0.248778
+The value of alphat is 0.552571
+False positives 4715
+False negatives 382
+
+
+Threshold set to -1.91417
+Strong classifier 1
+False positives: 3642
+False negatives: 46
+
+Added 591 no-faces
+
+Added 183 no-faces
+
+Added 24 no-faces
+
+Added 3 no-faces
+
+Opened image ./data/images/08.jpg
+Added 625 no-faces
+
+Added 165 no-faces
+
+Added 34 no-faces
+
+Added 3 no-faces
+
+Opened image ./data/images/09.jpg
+Added 696 no-faces
+
+Added 197 no-faces
+
+Added 39 no-faces
+
+Added 2 no-faces
+
+Opened image ./data/images/11245090475_2e65945613_o.jpg
+
+Iteration 0
+BWB classifier
+First zone goes from 5,5 to 5,8
+Second zone goes from 5,9 to 5,12
+Third zone goes from 5,13 to 5,16
+The value of et is 0.176956
+The value of alphat is 0.768556
+False positives 1304
+False negatives 1545
+
+
+Iteration 1
+BW classifier
+First zone goes from 5,3 to 6,3
+Second zone goes from 7,3 to 8,3
+The value of et is 0.224038
+The value of alphat is 0.621144
+False positives 2587
+False negatives 834
+
+
+Iteration 2
+BWB classifier
+First zone goes from 3,0 to 7,20
+Second zone goes from 8,0 to 12,20
+Third zone goes from 13,0 to 17,20
+The value of et is 0.219244
+The value of alphat is 0.635037
+False positives 1131
+False negatives 1808
+
+
+Iteration 3
+WB classifier
+First zone goes from 0,8 to 8,9
+Second zone goes from 9,8 to 17,9
+The value of et is 0.25735
+The value of alphat is 0.529894
+False positives 4939
+False negatives 615
+
+
+Iteration 4
+WBW classifier
+First zone goes from 0,5 to 19,6
+Second zone goes from 0,7 to 19,8
+Third zone goes from 0,9 to 19,10
+The value of et is 0.25045
+The value of alphat is 0.548107
+False positives 614
+False negatives 4305
+
+
+Iteration 5
+BW classifier
+First zone goes from 0,17 to 4,20
+Second zone goes from 5,17 to 9,20
+The value of et is 0.249792
+The value of alphat is 0.549861
+False positives 5007
+False negatives 463
+
+
+Iteration 6
+BWB classifier
+First zone goes from 2,8 to 18,9
+Second zone goes from 2,10 to 18,11
+Third zone goes from 2,12 to 18,13
+The value of et is 0.285212
+The value of alphat is 0.459376
+False positives 900
+False negatives 2651
+
+
+Iteration 7
+WB classifier
+First zone goes from 0,13 to 1,14
+Second zone goes from 2,13 to 3,14
+The value of et is 0.284588
+The value of alphat is 0.460908
+False positives 3427
+False negatives 1033
+
+
+Iteration 8
+WB classifier
+First zone goes from 4,17 to 4,17
+Second zone goes from 5,17 to 5,17
+The value of et is 0.296348
+The value of alphat is 0.432375
+False positives 2702
+False negatives 2078
+
+
+Threshold set to -1.71771
+Strong classifier 2
+False positives: 2233
+False negatives: 42
+
+Added 879 no-faces
+
+Added 391 no-faces
+
+Added 113 no-faces
+
+Added 19 no-faces
+
+Added 1 no-faces
+
+Opened image ./data/images/11.jpg
+Added 114 no-faces
+
+Added 30 no-faces
+
+Added 10 no-faces
+
+Added 2 no-faces
+
+Opened image ./data/images/12.jpg
+Added 165 no-faces
+
+Added 41 no-faces
+
+Added 7 no-faces
+
+Added 2 no-faces
+
+Opened image ./data/images/13.jpg
+Added 101 no-faces
+
+Added 32 no-faces
+
+Added 5 no-faces
+
+Added 3 no-faces
+
+Opened image ./data/images/14a.jpg
+Added 2438 no-faces
+
+Added 581 no-faces
+
+Added 154 no-faces
+
+Added 54 no-faces
+
+Added 4 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/14b.jpg
+Added 1810 no-faces
+
+Added 343 no-faces
+
+Added 76 no-faces
+
+Added 28 no-faces
+
+Added 7 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/14.jpg
+Added 87 no-faces
+
+Added 15 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/15.jpg
+Added 92 no-faces
+
+Added 27 no-faces
+
+Added 7 no-faces
+
+Added 1 no-faces
+
+Opened image ./data/images/16.jpg
+Added 122 no-faces
+
+Added 16 no-faces
+
+Added 7 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/17.jpg
+Added 105 no-faces
+
+
+Iteration 0
+BWB classifier
+First zone goes from 2,7 to 17,8
+Second zone goes from 2,9 to 17,10
+Third zone goes from 2,11 to 17,12
+The value of et is 0.222176
+The value of alphat is 0.626516
+False positives 1234
+False negatives 2343
+
+
+Iteration 1
+BW classifier
+First zone goes from 5,3 to 6,17
+Second zone goes from 7,3 to 8,17
+The value of et is 0.237553
+The value of alphat is 0.583071
+False positives 3555
+False negatives 1387
+
+
+Iteration 2
+BWB classifier
+First zone goes from 0,0 to 3,0
+Second zone goes from 4,0 to 7,0
+Third zone goes from 8,0 to 11,0
+The value of et is 0.271872
+The value of alphat is 0.492572
+False positives 1668
+False negatives 2387
+
+
+Iteration 3
+WB classifier
+First zone goes from 0,10 to 9,10
+Second zone goes from 10,10 to 19,10
+The value of et is 0.254703
+The value of alphat is 0.536842
+False positives 4686
+False negatives 586
+
+
+Iteration 4
+WBW classifier
+First zone goes from 8,3 to 14,7
+Second zone goes from 8,8 to 14,12
+Third zone goes from 8,13 to 14,17
+The value of et is 0.271886
+The value of alphat is 0.492537
+False positives 828
+False negatives 3952
+
+
+Iteration 5
+BWB classifier
+First zone goes from 5,15 to 5,15
+Second zone goes from 5,16 to 5,16
+Third zone goes from 5,17 to 5,17
+The value of et is 0.260683
+The value of alphat is 0.521211
+False positives 3130
+False negatives 1045
+
+
+Iteration 6
+BWB classifier
+First zone goes from 5,3 to 5,3
+Second zone goes from 5,4 to 5,4
+Third zone goes from 5,5 to 5,5
+The value of et is 0.298189
+The value of alphat is 0.427969
+False positives 2802
+False negatives 1087
+
+
+Iteration 7
+WB classifier
+First zone goes from 0,8 to 6,9
+Second zone goes from 7,8 to 13,9
+The value of et is 0.301029
+The value of alphat is 0.421201
+False positives 5880
+False negatives 671
+
+
+Iteration 8
+BWB classifier
+First zone goes from 18,20 to 18,20
+Second zone goes from 19,20 to 19,20
+Third zone goes from 20,20 to 20,20
+The value of et is 0.300604
+The value of alphat is 0.422211
+False positives 1471
+False negatives 3137
+
+
+Iteration 9
+BW classifier
+First zone goes from 2,0 to 7,15
+Second zone goes from 8,0 to 13,15
+The value of et is 0.297666
+The value of alphat is 0.429218
+False positives 5763
+False negatives 370
+
+
+Iteration 10
+WBW classifier
+First zone goes from 3,10 to 16,12
+Second zone goes from 3,13 to 16,15
+Third zone goes from 3,16 to 16,18
+The value of et is 0.291792
+The value of alphat is 0.443348
+False positives 1018
+False negatives 4617
+
+
+Iteration 11
+BWB classifier
+First zone goes from 0,20 to 3,20
+Second zone goes from 4,20 to 7,20
+Third zone goes from 8,20 to 11,20
+The value of et is 0.311733
+The value of alphat is 0.396015
+False positives 3460
+False negatives 1461
+
+
+Iteration 12
+BW classifier
+First zone goes from 5,15 to 5,17
+Second zone goes from 6,15 to 6,17
+The value of et is 0.313123
+The value of alphat is 0.39278
+False positives 5086
+False negatives 601
+
+
+Iteration 13
+WB classifier
+First zone goes from 1,2 to 1,18
+Second zone goes from 2,2 to 2,18
+The value of et is 0.325392
+The value of alphat is 0.364552
+False positives 2618
+False negatives 1951
+
+
+Iteration 14
+BWB classifier
+First zone goes from 12,0 to 13,14
+Second zone goes from 14,0 to 15,14
+Third zone goes from 16,0 to 17,14
+The value of et is 0.331767
+The value of alphat is 0.350103
+False positives 1596
+False negatives 2559
+
+
+Threshold set to -1.46859
+Strong classifier 3
+False positives: 1574
+False negatives: 47
+
+Added 7 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/18.jpg
+Added 12 no-faces
+
+Added 6 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/19.jpg
+Added 21 no-faces
+
+Added 7 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/2008-01-chinatown-doyers-street-700.jpg
+Added 299 no-faces
+
+Added 99 no-faces
+
+Added 27 no-faces
+
+Added 5 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/2009-04-21_Hampton_Forest_Apartment_Homes_playground.jpg
+Added 6067 no-faces
+
+Added 1302 no-faces
+
+Added 295 no-faces
+
+Added 88 no-faces
+
+Added 16 no-faces
+
+Added 7 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/20.jpg
+Added 32 no-faces
+
+Added 4 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/21.jpg
+Added 21 no-faces
+
+Added 4 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/22.jpg
+Added 18 no-faces
+
+Added 8 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/23.jpg
+Added 14 no-faces
+
+Added 9 no-faces
+
+Added 4 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/24a.jpg
+
+Iteration 0
+BWB classifier
+First zone goes from 2,8 to 18,9
+Second zone goes from 2,10 to 18,11
+Third zone goes from 2,12 to 18,13
+The value of et is 0.210313
+The value of alphat is 0.661521
+False positives 989
+False negatives 2397
+
+
+Iteration 1
+BW classifier
+First zone goes from 5,5 to 5,5
+Second zone goes from 6,5 to 6,5
+The value of et is 0.279645
+The value of alphat is 0.473112
+False positives 3303
+False negatives 2076
+
+
+Iteration 2
+BWB classifier
+First zone goes from 18,0 to 18,0
+Second zone goes from 19,0 to 19,0
+Third zone goes from 20,0 to 20,0
+The value of et is 0.284414
+The value of alphat is 0.461335
+False positives 1526
+False negatives 2584
+
+
+Iteration 3
+BW classifier
+First zone goes from 6,4 to 8,5
+Second zone goes from 9,4 to 11,5
+The value of et is 0.288403
+The value of alphat is 0.451577
+False positives 6250
+False negatives 556
+
+
+Iteration 4
+WBW classifier
+First zone goes from 0,10 to 17,11
+Second zone goes from 0,12 to 17,13
+Third zone goes from 0,14 to 17,15
+The value of et is 0.304696
+The value of alphat is 0.412517
+False positives 644
+False negatives 4170
+
+
+Iteration 5
+BWB classifier
+First zone goes from 2,5 to 6,8
+Second zone goes from 2,9 to 6,12
+Third zone goes from 2,13 to 6,16
+The value of et is 0.279457
+The value of alphat is 0.473579
+False positives 3405
+False negatives 1128
+
+
+Iteration 6
+BW classifier
+First zone goes from 0,0 to 2,0
+Second zone goes from 3,0 to 5,0
+The value of et is 0.313835
+The value of alphat is 0.391125
+False positives 5221
+False negatives 736
+
+
+Iteration 7
+BWB classifier
+First zone goes from 0,18 to 20,18
+Second zone goes from 0,19 to 20,19
+Third zone goes from 0,20 to 20,20
+The value of et is 0.313378
+The value of alphat is 0.392188
+False positives 1258
+False negatives 2718
+
+
+Iteration 8
+WB classifier
+First zone goes from 4,15 to 4,15
+Second zone goes from 5,15 to 5,15
+The value of et is 0.310919
+The value of alphat is 0.397913
+False positives 4742
+False negatives 1307
+
+
+Iteration 9
+WB classifier
+First zone goes from 1,3 to 1,18
+Second zone goes from 2,3 to 2,18
+The value of et is 0.319119
+The value of alphat is 0.378911
+False positives 2188
+False negatives 2890
+
+
+Iteration 10
+WB classifier
+First zone goes from 2,7 to 9,10
+Second zone goes from 10,7 to 17,10
+The value of et is 0.31264
+The value of alphat is 0.393904
+False positives 6620
+False negatives 400
+
+
+Iteration 11
+WBW classifier
+First zone goes from 0,14 to 20,14
+Second zone goes from 0,15 to 20,15
+Third zone goes from 0,16 to 20,16
+The value of et is 0.307151
+The value of alphat is 0.406737
+False positives 698
+False negatives 4574
+
+
+Iteration 12
+BW classifier
+First zone goes from 0,19 to 0,20
+Second zone goes from 1,19 to 1,20
+The value of et is 0.309269
+The value of alphat is 0.40177
+False positives 5848
+False negatives 358
+
+
+Iteration 13
+BWB classifier
+First zone goes from 0,20 to 4,20
+Second zone goes from 5,20 to 9,20
+Third zone goes from 10,20 to 14,20
+The value of et is 0.338448
+The value of alphat is 0.33511
+False positives 2559
+False negatives 2278
+
+
+Iteration 14
+BWB classifier
+First zone goes from 5,5 to 5,5
+Second zone goes from 5,6 to 5,6
+Third zone goes from 5,7 to 5,7
+The value of et is 0.349016
+The value of alphat is 0.311684
+False positives 2694
+False negatives 1450
+
+
+Iteration 15
+BW classifier
+First zone goes from 5,0 to 5,4
+Second zone goes from 6,0 to 6,4
+The value of et is 0.343838
+The value of alphat is 0.323118
+False positives 5908
+False negatives 653
+
+
+Iteration 16
+WBW classifier
+First zone goes from 0,4 to 20,4
+Second zone goes from 0,5 to 20,5
+Third zone goes from 0,6 to 20,6
+The value of et is 0.330968
+The value of alphat is 0.351906
+False positives 637
+False negatives 4892
+
+
+Iteration 17
+WB classifier
+First zone goes from 11,1 to 11,2
+Second zone goes from 12,1 to 12,2
+The value of et is 0.3268
+The value of alphat is 0.361348
+False positives 6468
+False negatives 255
+
+
+Iteration 18
+BWB classifier
+First zone goes from 11,0 to 12,16
+Second zone goes from 13,0 to 14,16
+Third zone goes from 15,0 to 16,16
+The value of et is 0.314816
+The value of alphat is 0.38885
+False positives 1430
+False negatives 2642
+
+
+Iteration 19
+BW classifier
+First zone goes from 1,14 to 6,15
+Second zone goes from 7,14 to 12,15
+The value of et is 0.339752
+The value of alphat is 0.3322
+False positives 7462
+False negatives 485
+
+
+Iteration 20
+WBW classifier
+First zone goes from 1,8 to 12,11
+Second zone goes from 1,12 to 12,15
+Third zone goes from 1,16 to 12,19
+The value of et is 0.333242
+The value of alphat is 0.346779
+False positives 1363
+False negatives 4293
+
+
+Threshold set to -1.05187
+Strong classifier 4
+False positives: 890
+False negatives: 47
+
+Added 202 no-faces
+
+Added 40 no-faces
+
+Added 6 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/24.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/25.jpg
+Added 5 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/2620041065_ff89a67854_o.jpg
+Added 59 no-faces
+
+Added 35 no-faces
+
+Added 10 no-faces
+
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/26.jpg
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/27.jpg
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/28.jpg
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/29.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/2ndHandStore.jpg
+Added 39 no-faces
+
+Added 15 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/30.jpg
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/31.jpg
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/32.jpg
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/33.jpg
+Added 6 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/34.jpg
+Added 3 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/35.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/36.jpg
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/37.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/38.jpg
+Added 5 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/39.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/40hocrL.jpg
+Added 34 no-faces
+
+Added 6 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/40.jpg
+Added 3 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/41.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/42.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/43.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/44.jpg
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/45.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/46.jpg
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/47.jpg
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/48.jpg
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/49.jpg
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/4YphbM7.jpg
+Added 99 no-faces
+
+Added 15 no-faces
+
+Added 3 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/50.jpg
+Added 6 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/51.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/52.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/53.jpg
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/54.jpg
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/551116.jpg
+Added 38 no-faces
+
+Added 10 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/55.jpg
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/8357809263_43501f82c9_o.jpg
+Added 746 no-faces
+
+Added 261 no-faces
+
+Added 62 no-faces
+
+Added 17 no-faces
+
+Added 5 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/8770449822_c06e7898d9_o.jpg
+Added 211 no-faces
+
+Added 52 no-faces
+
+Added 16 no-faces
+
+Added 3 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/abraham-martinez-gracia_ourense.jpg
+Added 51 no-faces
+
+Added 12 no-faces
+
+Added 4 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/bathroom2.jpg
+Added 113 no-faces
+
+Added 15 no-faces
+
+Added 17 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/best-news-pictures-june-2012-elephant-birds_55888_600x450.jpg
+Added 11 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/BtOMbDF.jpg
+Added 151 no-faces
+
+Added 45 no-faces
+
+Added 3 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/chicken-farm-essick_66070_990x742.jpg
+Added 43 no-faces
+
+Added 8 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/dsc00539trim.jpg
+Added 85 no-faces
+
+Added 11 no-faces
+
+Added 4 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/dubrovnik02.jpg
+Added 21 no-faces
+
+Added 5 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/earth_science_classroom.jpg
+Added 102 no-faces
+
+Added 12 no-faces
+
+Added 6 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/EfkrIpj.jpg
+Added 25 no-faces
+
+Added 11 no-faces
+
+Added 4 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 1 no-faces
+
+Opened image ./data/images/fantasy-space-background-walls.jpg
+Added 36 no-faces
+
+Added 5 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Fronalpstock_big.jpg
+Added 2565 no-faces
+
+Added 691 no-faces
+
+Added 158 no-faces
+
+Added 32 no-faces
+
+Added 5 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/gaudi.jpg
+Added 41 no-faces
+
+Added 15 no-faces
+
+Added 3 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/graffiti-wallpaper-art-wall.jpg
+Added 30 no-faces
+
+Added 14 no-faces
+
+Added 4 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-10.jpg
+Added 71 no-faces
+
+Added 12 no-faces
+
+Added 3 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-11.jpg
+Added 42 no-faces
+
+Added 13 no-faces
+
+Added 3 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-12.jpg
+Added 71 no-faces
+
+Added 15 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-13.jpg
+Added 79 no-faces
+
+Added 12 no-faces
+
+Added 7 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-14.jpg
+Added 93 no-faces
+
+Added 21 no-faces
+
+Added 4 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-15.jpg
+Added 69 no-faces
+
+Added 11 no-faces
+
+Added 3 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-16.jpg
+Added 80 no-faces
+
+Added 16 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-17.jpg
+Added 94 no-faces
+
+Added 17 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-18.jpg
+Added 72 no-faces
+
+Added 17 no-faces
+
+Added 6 no-faces
+
+Added 4 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-19.jpg
+Added 64 no-faces
+
+Added 15 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-1.jpg
+Added 80 no-faces
+
+Added 15 no-faces
+
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-20.jpg
+Added 127 no-faces
+
+Added 28 no-faces
+
+Added 5 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-21.jpg
+Added 96 no-faces
+
+Added 23 no-faces
+
+Added 4 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-22.jpg
+Added 101 no-faces
+
+Added 18 no-faces
+
+Added 4 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-2.jpg
+Added 57 no-faces
+
+Added 7 no-faces
+
+Added 4 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-3.jpg
+Added 72 no-faces
+
+Added 24 no-faces
+
+Added 5 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-4.jpg
+Added 44 no-faces
+
+Added 3 no-faces
+
+Added 2 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-5.jpg
+Added 92 no-faces
+
+Added 19 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-6.jpg
+Added 46 no-faces
+
+Added 10 no-faces
+
+Added 4 no-faces
+
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-7.jpg
+Added 42 no-faces
+
+Added 7 no-faces
+
+Added 6 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-8.jpg
+Added 74 no-faces
+
+Added 24 no-faces
+
+Added 12 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Hamad_Darwish_dot_com_Windows_Vista_Wallpapers_-9.jpg
+Added 71 no-faces
+
+Added 14 no-faces
+
+Added 8 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Opened image ./data/images/Holt_Renfrew_Mannequins.jpg
+Added 202 no-faces
+
+Added 39 no-faces
+
+Added 8 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/House_in_Cappadocia_22.jpg
+Added 169 no-faces
+
+Added 39 no-faces
+
+Added 13 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/IMG_3471.jpg
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/index.jpg
+Added 43 no-faces
+
+Added 11 no-faces
+
+Added 4 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/jPEsXm7.jpg
+Added 76 no-faces
+
+Added 14 no-faces
+
+Added 9 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/jQyfnsJ.jpg
+Added 85 no-faces
+
+Added 24 no-faces
+
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Kitchen-Remodeling-9.jpg
+Added 39 no-faces
+
+Added 3 no-faces
+
+Added 5 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/l-oceanografic_pxl_693ba0757b77ceb996e90c00431d9ebc.jpg
+Added 6 no-faces
+
+Added 2 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Mannequin3.jpg
+Added 3 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/Marbles.jpg
+Added 2 no-faces
+
+Added 1 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Added 0 no-faces
+
+Opened image ./data/images/messy-desk.jpg
+
+Iteration 0
+BWB classifier
+First zone goes from 5,0 to 7,20
+Second zone goes from 8,0 to 10,20
+Third zone goes from 11,0 to 13,20
+The value of et is 0.227956
+The value of alphat is 0.609944
+False positives 1006
+False negatives 2664
+
+
+Iteration 1
+BWB classifier
+First zone goes from 20,0 to 20,6
+Second zone goes from 20,7 to 20,13
+Third zone goes from 20,14 to 20,20
+The value of et is 0.290285
+The value of alphat is 0.447
+False positives 2440
+False negatives 1904
+
+
+Iteration 2
+WB classifier
+First zone goes from 0,6 to 1,7
+Second zone goes from 2,6 to 3,7
+The value of et is 0.309697
+The value of alphat is 0.400769
+False positives 3951
+False negatives 1471
+
+
+Iteration 3
+BWB classifier
+First zone goes from 0,0 to 0,0
+Second zone goes from 0,0 to 0,0
+Third zone goes from 0,0 to 0,0
+The value of et is 0.319805
+The value of alphat is 0.377333
+False positives 3029
+False negatives 1948
+
+
+Iteration 4
+BW classifier
+First zone goes from 5,15 to 5,15
+Second zone goes from 6,15 to 6,15
+The value of et is 0.315947
+The value of alphat is 0.386231
+False positives 4738
+False negatives 1502
+
+
+Iteration 5
+WBW classifier
+First zone goes from 8,3 to 17,7
+Second zone goes from 8,8 to 17,12
+Third zone goes from 8,13 to 17,17
+The value of et is 0.321781
+The value of alphat is 0.3728
+False positives 1240
+False negatives 4283
+
+
+Iteration 6
+BW classifier
+First zone goes from 8,8 to 8,11
+Second zone goes from 9,8 to 9,11
+The value of et is 0.310045
+The value of alphat is 0.399955
+False positives 6005
+False negatives 498
+
+
+Iteration 7
+BWB classifier
+First zone goes from 10,0 to 11,20
+Second zone goes from 12,0 to 13,20
+Third zone goes from 14,0 to 15,20
+The value of et is 0.306431
+The value of alphat is 0.408429
+False positives 1421
+False negatives 2888
+
+
+Iteration 8
+BW classifier
+First zone goes from 6,15 to 8,16
+Second zone goes from 9,15 to 11,16
+The value of et is 0.316469
+The value of alphat is 0.385022
+False positives 6243
+False negatives 460
+
+
+Iteration 9
+WBW classifier
+First zone goes from 0,12 to 17,13
+Second zone goes from 0,14 to 17,15
+Third zone goes from 0,16 to 17,17
+The value of et is 0.323416
+The value of alphat is 0.369058
+False positives 886
+False negatives 4781
+
+
+Iteration 10
+BW classifier
+First zone goes from 1,20 to 3,20
+Second zone goes from 4,20 to 6,20
+The value of et is 0.322332
+The value of alphat is 0.371537
+False positives 6340
+False negatives 575
+
+
+Iteration 11
+WB classifier
+First zone goes from 4,3 to 4,3
+Second zone goes from 5,3 to 5,3
+The value of et is 0.335888
+The value of alphat is 0.340836
+False positives 3315
+False negatives 2234
+
+
+Iteration 12
+BWB classifier
+First zone goes from 12,0 to 13,20
+Second zone goes from 14,0 to 15,20
+Third zone goes from 16,0 to 17,20
+The value of et is 0.329336
+The value of alphat is 0.355595
+False positives 1664
+False negatives 2486
+
+
+Iteration 13
+WB classifier
+First zone goes from 15,3 to 17,3
+Second zone goes from 18,3 to 20,3
+The value of et is 0.330597
+The value of alphat is 0.352744
+False positives 5276
+False negatives 672
+
+
+Iteration 14
+WB classifier
+First zone goes from 1,12 to 2,12
+Second zone goes from 3,12 to 4,12
+The value of et is 0.345643
+The value of alphat is 0.319124
+False positives 3881
+False negatives 1465
+
+
+Iteration 15
+WBW classifier
+First zone goes from 0,9 to 20,10
+Second zone goes from 0,11 to 20,12
+Third zone goes from 0,13 to 20,14
+The value of et is 0.346309
+The value of alphat is 0.317651
+False positives 1037
+False negatives 4515
+
+
+Iteration 16
+BWB classifier
+First zone goes from 1,4 to 5,7
+Second zone goes from 1,8 to 5,11
+Third zone goes from 1,12 to 5,15
+The value of et is 0.328115
+The value of alphat is 0.358362
+False positives 5581
+False negatives 1060
+
+
+Iteration 17
+WB classifier
+First zone goes from 12,3 to 13,5
+Second zone goes from 14,3 to 15,5
+The value of et is 0.363271
+The value of alphat is 0.280598
+False positives 5717
+False negatives 813
+
+
+Iteration 18
+BWB classifier
+First zone goes from 2,6 to 20,6
+Second zone goes from 2,7 to 20,7
+Third zone goes from 2,8 to 20,8
+The value of et is 0.351287
+The value of alphat is 0.306692
+False positives 1109
+False negatives 3260
+
+
+Iteration 19
+WB classifier
+First zone goes from 4,17 to 4,17
+Second zone goes from 5,17 to 5,17
+The value of et is 0.348094
+The value of alphat is 0.313714
+False positives 5211
+False negatives 1040
+
+
+Iteration 20
+WBW classifier
+First zone goes from 0,6 to 0,8
+Second zone goes from 0,9 to 0,11
+Third zone goes from 0,12 to 0,14
+The value of et is 0.36633
+The value of alphat is 0.273997
+False positives 1830
+False negatives 3616
+
+
+Iteration 21
+BW classifier
+First zone goes from 2,17 to 5,17
+Second zone goes from 6,17 to 9,17
+The value of et is 0.360065
+The value of alphat is 0.287542
+False positives 6811
+False negatives 390
+
+
+Iteration 22
+BWB classifier
+First zone goes from 0,15 to 19,16
+Second zone goes from 0,17 to 19,18
+Third zone goes from 0,19 to 19,20
+The value of et is 0.347651
+The value of alphat is 0.31469
+False positives 992
+False negatives 3477
+
+
+Iteration 23
+WB classifier
+First zone goes from 3,10 to 8,10
+Second zone goes from 9,10 to 14,10
+The value of et is 0.356933
+The value of alphat is 0.29435
+False positives 7072
+False negatives 477
+
+
+Iteration 24
+BWB classifier
+First zone goes from 5,5 to 5,5
+Second zone goes from 5,6 to 5,6
+Third zone goes from 5,7 to 5,7
+The value of et is 0.352734
+The value of alphat is 0.303523
+False positives 2787
+False negatives 2126
+
+
+Iteration 25
+WBW classifier
+First zone goes from 8,5 to 12,6
+Second zone goes from 8,7 to 12,8
+Third zone goes from 8,9 to 12,10
+The value of et is 0.364336
+The value of alphat is 0.278296
+False positives 2727
+False negatives 3654
+
+
+Iteration 26
+BW classifier
+First zone goes from 11,0 to 11,3
+Second zone goes from 12,0 to 12,3
+The value of et is 0.3529
+The value of alphat is 0.303158
+False positives 7020
+False negatives 548
+
+
+Iteration 27
+BW classifier
+First zone goes from 2,14 to 2,16
+Second zone goes from 3,14 to 3,16
+The value of et is 0.358374
+The value of alphat is 0.291215
+False positives 1620
+False negatives 3863
+
+
+Iteration 28
+BW classifier
+First zone goes from 7,10 to 7,14
+Second zone goes from 8,10 to 8,14
+The value of et is 0.358781
+The value of alphat is 0.290329
+False positives 6210
+False negatives 544
+
+
+Iteration 29
+WBW classifier
+First zone goes from 0,3 to 16,4
+Second zone goes from 0,5 to 16,6
+Third zone goes from 0,7 to 16,8
+The value of et is 0.365315
+The value of alphat is 0.276185
+False positives 1452
+False negatives 4887
+
+
+Iteration 30
+WB classifier
+First zone goes from 7,10 to 7,10
+Second zone goes from 8,10 to 8,10
+The value of et is 0.356963
+The value of alphat is 0.294286
+False positives 7062
+False negatives 403
+
+
+Threshold set to -0.990808
+Strong classifier 5
+False positives: 803
+False negatives: 46
+
+Cascade classifier: testing 16099 images (6099 faces, 10000 no-faces)
+False positives: 84
+False negatives: 271
+

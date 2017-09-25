@@ -1,0 +1,385 @@
+<?xml version="1.0"?>
+<cascadeclassifier ncls="5">
+	<strongclassifier threshold="-1.45375" nwcls="3">
+		<wclassifier type="Z2" polarity="-1" threshold="-0.791153" alpha_pos="1.19435" alpha_neg="1.19435">
+			<z11 x="5" y="15" />
+			<z12 x="6" y="15" />
+			<z21 x="7" y="15" />
+			<z22 x="8" y="15" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-20.0219" alpha_pos="0.84568" alpha_neg="0.84568">
+			<z11 x="2" y="4" />
+			<z12 x="5" y="7" />
+			<z21 x="2" y="8" />
+			<z22 x="5" y="11" />
+			<z31 x="2" y="12" />
+			<z32 x="5" y="15" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-0.187715" alpha_pos="0.587279" alpha_neg="0.587279">
+			<z11 x="5" y="5" />
+			<z12 x="5" y="5" />
+			<z21 x="6" y="5" />
+			<z22 x="6" y="5" />
+		</wclassifier>
+	</strongclassifier>
+	<strongclassifier threshold="-1.91417" nwcls="5">
+		<wclassifier type="Z3" polarity="-1" threshold="-7.25299" alpha_pos="0.977372" alpha_neg="0.977372">
+			<z11 x="5" y="3" />
+			<z12 x="5" y="7" />
+			<z21 x="5" y="8" />
+			<z22 x="5" y="12" />
+			<z31 x="5" y="13" />
+			<z32 x="5" y="17" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="2.54001" alpha_pos="0.676575" alpha_neg="0.676575">
+			<z11 x="1" y="3" />
+			<z12 x="1" y="15" />
+			<z21 x="2" y="3" />
+			<z22 x="2" y="15" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-0.305176" alpha_pos="0.555916" alpha_neg="0.555916">
+			<z11 x="5" y="15" />
+			<z12 x="5" y="15" />
+			<z21 x="6" y="15" />
+			<z22 x="6" y="15" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-1.04982" alpha_pos="0.503889" alpha_neg="0.503889">
+			<z11 x="5" y="5" />
+			<z12 x="5" y="5" />
+			<z21 x="5" y="6" />
+			<z22 x="5" y="6" />
+			<z31 x="5" y="7" />
+			<z32 x="5" y="7" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="0.748863" alpha_pos="0.552571" alpha_neg="0.552571">
+			<z11 x="10" y="2" />
+			<z12 x="13" y="17" />
+			<z21 x="14" y="2" />
+			<z22 x="17" y="17" />
+		</wclassifier>
+	</strongclassifier>
+	<strongclassifier threshold="-1.71771" nwcls="9">
+		<wclassifier type="Z3" polarity="-1" threshold="-6.43486" alpha_pos="0.768556" alpha_neg="0.768556">
+			<z11 x="5" y="5" />
+			<z12 x="5" y="8" />
+			<z21 x="5" y="9" />
+			<z22 x="5" y="12" />
+			<z31 x="5" y="13" />
+			<z32 x="5" y="16" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-0.839634" alpha_pos="0.621144" alpha_neg="0.621144">
+			<z11 x="5" y="3" />
+			<z12 x="6" y="3" />
+			<z21 x="7" y="3" />
+			<z22 x="8" y="3" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-77.6248" alpha_pos="0.635037" alpha_neg="0.635037">
+			<z11 x="3" y="0" />
+			<z12 x="7" y="20" />
+			<z21 x="8" y="0" />
+			<z22 x="12" y="20" />
+			<z31 x="13" y="0" />
+			<z32 x="17" y="20" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="-0.0548153" alpha_pos="0.529894" alpha_neg="0.529894">
+			<z11 x="0" y="8" />
+			<z12 x="8" y="9" />
+			<z21 x="9" y="8" />
+			<z22 x="17" y="9" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="21.9199" alpha_pos="0.548107" alpha_neg="0.548107">
+			<z11 x="0" y="5" />
+			<z12 x="19" y="6" />
+			<z21 x="0" y="7" />
+			<z22 x="19" y="8" />
+			<z31 x="0" y="9" />
+			<z32 x="19" y="10" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-0.613607" alpha_pos="0.549861" alpha_neg="0.549861">
+			<z11 x="0" y="17" />
+			<z12 x="4" y="20" />
+			<z21 x="5" y="17" />
+			<z22 x="9" y="20" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-21.5541" alpha_pos="0.459376" alpha_neg="0.459376">
+			<z11 x="2" y="8" />
+			<z12 x="18" y="9" />
+			<z21 x="2" y="10" />
+			<z22 x="18" y="11" />
+			<z31 x="2" y="12" />
+			<z32 x="18" y="13" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="1.30999" alpha_pos="0.460908" alpha_neg="0.460908">
+			<z11 x="0" y="13" />
+			<z12 x="1" y="14" />
+			<z21 x="2" y="13" />
+			<z22 x="3" y="14" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="0.231148" alpha_pos="0.432375" alpha_neg="0.432375">
+			<z11 x="4" y="17" />
+			<z12 x="4" y="17" />
+			<z21 x="5" y="17" />
+			<z22 x="5" y="17" />
+		</wclassifier>
+	</strongclassifier>
+	<strongclassifier threshold="-1.46859" nwcls="15">
+		<wclassifier type="Z3" polarity="-1" threshold="-19.5964" alpha_pos="0.626516" alpha_neg="0.626516">
+			<z11 x="2" y="7" />
+			<z12 x="17" y="8" />
+			<z21 x="2" y="9" />
+			<z22 x="17" y="10" />
+			<z31 x="2" y="11" />
+			<z32 x="17" y="12" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-14.1578" alpha_pos="0.583071" alpha_neg="0.583071">
+			<z11 x="5" y="3" />
+			<z12 x="6" y="17" />
+			<z21 x="7" y="3" />
+			<z22 x="8" y="17" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-3.6099" alpha_pos="0.492572" alpha_neg="0.492572">
+			<z11 x="0" y="0" />
+			<z12 x="3" y="0" />
+			<z21 x="4" y="0" />
+			<z22 x="7" y="0" />
+			<z31 x="8" y="0" />
+			<z32 x="11" y="0" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="1.77584" alpha_pos="0.536842" alpha_neg="0.536842">
+			<z11 x="0" y="10" />
+			<z12 x="9" y="10" />
+			<z21 x="10" y="10" />
+			<z22 x="19" y="10" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="33.1084" alpha_pos="0.492537" alpha_neg="0.492537">
+			<z11 x="8" y="3" />
+			<z12 x="14" y="7" />
+			<z21 x="8" y="8" />
+			<z22 x="14" y="12" />
+			<z31 x="8" y="13" />
+			<z32 x="14" y="17" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-1.04917" alpha_pos="0.521211" alpha_neg="0.521211">
+			<z11 x="5" y="15" />
+			<z12 x="5" y="15" />
+			<z21 x="5" y="16" />
+			<z22 x="5" y="16" />
+			<z31 x="5" y="17" />
+			<z32 x="5" y="17" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-1.1212" alpha_pos="0.427969" alpha_neg="0.427969">
+			<z11 x="5" y="3" />
+			<z12 x="5" y="3" />
+			<z21 x="5" y="4" />
+			<z22 x="5" y="4" />
+			<z31 x="5" y="5" />
+			<z32 x="5" y="5" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="-3.74535" alpha_pos="0.421201" alpha_neg="0.421201">
+			<z11 x="0" y="8" />
+			<z12 x="6" y="9" />
+			<z21 x="7" y="8" />
+			<z22 x="13" y="9" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-1.15471" alpha_pos="0.422211" alpha_neg="0.422211">
+			<z11 x="18" y="20" />
+			<z12 x="18" y="20" />
+			<z21 x="19" y="20" />
+			<z22 x="19" y="20" />
+			<z31 x="20" y="20" />
+			<z32 x="20" y="20" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-10.8334" alpha_pos="0.429218" alpha_neg="0.429218">
+			<z11 x="2" y="0" />
+			<z12 x="7" y="15" />
+			<z21 x="8" y="0" />
+			<z22 x="13" y="15" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="31.2444" alpha_pos="0.443348" alpha_neg="0.443348">
+			<z11 x="3" y="10" />
+			<z12 x="16" y="12" />
+			<z21 x="3" y="13" />
+			<z22 x="16" y="15" />
+			<z31 x="3" y="16" />
+			<z32 x="16" y="18" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-1.92201" alpha_pos="0.396015" alpha_neg="0.396015">
+			<z11 x="0" y="20" />
+			<z12 x="3" y="20" />
+			<z21 x="4" y="20" />
+			<z22 x="7" y="20" />
+			<z31 x="8" y="20" />
+			<z32 x="11" y="20" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-0.576523" alpha_pos="0.39278" alpha_neg="0.39278">
+			<z11 x="5" y="15" />
+			<z12 x="5" y="17" />
+			<z21 x="6" y="15" />
+			<z22 x="6" y="17" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="4.70593" alpha_pos="0.364552" alpha_neg="0.364552">
+			<z11 x="1" y="2" />
+			<z12 x="1" y="18" />
+			<z21 x="2" y="2" />
+			<z22 x="2" y="18" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-13.26" alpha_pos="0.350103" alpha_neg="0.350103">
+			<z11 x="12" y="0" />
+			<z12 x="13" y="14" />
+			<z21 x="14" y="0" />
+			<z22 x="15" y="14" />
+			<z31 x="16" y="0" />
+			<z32 x="17" y="14" />
+		</wclassifier>
+	</strongclassifier>
+	<strongclassifier threshold="-1.14618" nwcls="21">
+		<wclassifier type="Z3" polarity="-1" threshold="-21.7641" alpha_pos="0.612774" alpha_neg="0.612774">
+			<z11 x="10" y="0" />
+			<z12 x="18" y="2" />
+			<z21 x="10" y="3" />
+			<z22 x="18" y="5" />
+			<z31 x="10" y="6" />
+			<z32 x="18" y="8" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-1.15744" alpha_pos="0.503483" alpha_neg="0.503483">
+			<z11 x="5" y="5" />
+			<z12 x="5" y="5" />
+			<z21 x="5" y="6" />
+			<z22 x="5" y="6" />
+			<z31 x="5" y="7" />
+			<z32 x="5" y="7" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="-0.477356" alpha_pos="0.424387" alpha_neg="0.424387">
+			<z11 x="5" y="10" />
+			<z12 x="6" y="10" />
+			<z21 x="7" y="10" />
+			<z22 x="8" y="10" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-7.22347" alpha_pos="0.41772" alpha_neg="0.41772">
+			<z11 x="20" y="0" />
+			<z12 x="20" y="6" />
+			<z21 x="20" y="7" />
+			<z22 x="20" y="13" />
+			<z31 x="20" y="14" />
+			<z32 x="20" y="20" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="1.47239" alpha_pos="0.423526" alpha_neg="0.423526">
+			<z11 x="0" y="6" />
+			<z12 x="1" y="7" />
+			<z21 x="2" y="6" />
+			<z22 x="3" y="7" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="4.06345" alpha_pos="0.412837" alpha_neg="0.412837">
+			<z11 x="9" y="10" />
+			<z12 x="10" y="11" />
+			<z21 x="9" y="12" />
+			<z22 x="10" y="13" />
+			<z31 x="9" y="14" />
+			<z32 x="10" y="15" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-0.964022" alpha_pos="0.450138" alpha_neg="0.450138">
+			<z11 x="0" y="20" />
+			<z12 x="0" y="20" />
+			<z21 x="1" y="20" />
+			<z22 x="1" y="20" />
+			<z31 x="2" y="20" />
+			<z32 x="2" y="20" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="0.374806" alpha_pos="0.405064" alpha_neg="0.405064">
+			<z11 x="0" y="0" />
+			<z12 x="1" y="0" />
+			<z21 x="2" y="0" />
+			<z22 x="3" y="0" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-9.46784" alpha_pos="0.397674" alpha_neg="0.397674">
+			<z11 x="2" y="13" />
+			<z12 x="20" y="13" />
+			<z21 x="2" y="14" />
+			<z22 x="20" y="14" />
+			<z31 x="2" y="15" />
+			<z32 x="20" y="15" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-1.1149" alpha_pos="0.432071" alpha_neg="0.432071">
+			<z11 x="5" y="2" />
+			<z12 x="5" y="5" />
+			<z21 x="6" y="2" />
+			<z22 x="6" y="5" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="32.6355" alpha_pos="0.386001" alpha_neg="0.386001">
+			<z11 x="1" y="8" />
+			<z12 x="12" y="11" />
+			<z21 x="1" y="12" />
+			<z22 x="12" y="15" />
+			<z31 x="1" y="16" />
+			<z32 x="12" y="19" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="0.0383987" alpha_pos="0.394622" alpha_neg="0.394622">
+			<z11 x="4" y="15" />
+			<z12 x="4" y="15" />
+			<z21 x="5" y="15" />
+			<z22 x="5" y="15" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-15.8427" alpha_pos="0.347839" alpha_neg="0.347839">
+			<z11 x="11" y="0" />
+			<z12 x="12" y="20" />
+			<z21 x="13" y="0" />
+			<z22 x="14" y="20" />
+			<z31 x="15" y="0" />
+			<z32 x="16" y="20" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-1.61186" alpha_pos="0.407019" alpha_neg="0.407019">
+			<z11 x="5" y="15" />
+			<z12 x="8" y="16" />
+			<z21 x="9" y="15" />
+			<z22 x="12" y="16" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="19.9447" alpha_pos="0.330961" alpha_neg="0.330961">
+			<z11 x="0" y="9" />
+			<z12 x="19" y="10" />
+			<z21 x="0" y="11" />
+			<z22 x="19" y="12" />
+			<z31 x="0" y="13" />
+			<z32 x="19" y="14" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="0.389774" alpha_pos="0.356472" alpha_neg="0.356472">
+			<z11 x="1" y="0" />
+			<z12 x="4" y="1" />
+			<z21 x="5" y="0" />
+			<z22 x="8" y="1" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="-1" threshold="-9.65598" alpha_pos="0.35088" alpha_neg="0.35088">
+			<z11 x="1" y="6" />
+			<z12 x="20" y="6" />
+			<z21 x="1" y="7" />
+			<z22 x="20" y="7" />
+			<z31 x="1" y="8" />
+			<z32 x="20" y="8" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="1" threshold="2.68341" alpha_pos="0.373922" alpha_neg="0.373922">
+			<z11 x="0" y="12" />
+			<z12 x="1" y="14" />
+			<z21 x="2" y="12" />
+			<z22 x="3" y="14" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="0.129284" alpha_pos="0.322194" alpha_neg="0.322194">
+			<z11 x="0" y="20" />
+			<z12 x="2" y="20" />
+			<z21 x="3" y="20" />
+			<z22 x="5" y="20" />
+		</wclassifier>
+		<wclassifier type="Z3" polarity="1" threshold="23.457" alpha_pos="0.309099" alpha_neg="0.309099">
+			<z11 x="0" y="12" />
+			<z12 x="19" y="13" />
+			<z21 x="0" y="14" />
+			<z22 x="19" y="15" />
+			<z31 x="0" y="16" />
+			<z32 x="19" y="17" />
+		</wclassifier>
+		<wclassifier type="Z2" polarity="-1" threshold="-0.489033" alpha_pos="0.372328" alpha_neg="0.372328">
+			<z11 x="6" y="0" />
+			<z12 x="7" y="5" />
+			<z21 x="8" y="0" />
+			<z22 x="9" y="5" />
+		</wclassifier>
+	</strongclassifier>
+</cascadeclassifier>
