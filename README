@@ -1,0 +1,23 @@
+Compiling the train program (./bin/train):
+
+  make
+
+(Editing Makefile might be required to set the correct version of g++)
+
+Compiling the detector program (./bin/detector):
+
+  cd ./src/detector
+  make
+
+Compiling the parallel versions (./bin/trainp and ./bin/detectorp):
+
+  make parallel
+
+  cd ./src/detector
+  make parallel
+
+--------------------------------------------
+
+Testing the detector program (parallel):
+
+  ./bin/detectorp ./data/images/test/barca.jpg ./classifiers/cclassifier_84-271.xml
